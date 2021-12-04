@@ -1,0 +1,115 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkred;
+    text-align: center;
+    display: block; 
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkred;
+    text-align: left;
+    display: block;
+    position: relative;
+}
+
+nav {
+    text-align: center;
+    float: inline-start;
+    color: darkblue;
+    display: block;
+    padding: 8px;
+    background-color: lightgray;
+    border-color: dimgray;
+    border-style: double;
+}
+
+a:hover {
+    color: darkred;
+    text-decoration: underline;
+}
+
+
+
+body {
+    background-color: darkgray;
+    border-style: double;
+    border-color: darkred;
+    border: 1px darkred;
+
+}
+
+#inputBox {
+    display: inline;
+    
+}
+
+input {
+    display: inline;
+}
+
+main {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    border-style: double;
+    border-color: darkred;
+    border: 1px darkred;
+}
+
+iframe {
+    width: 50pc;
+    height: 50pc;
+}
+
+#postComment {
+    display: inline;
+}
+
+section {
+    visibility: viasable;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+}
+
+#input1 {
+    width: 20%;
+}
+
+#TotalContainer {
+    visibility: viasable;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+}
+
+#Correct1 {
+    visibility: hidden;
+}
+
+#Correct2 {
+    visibility: hidden;
+}
+
+#Correct3 {
+    visibility: hidden;
+}
+
+#Correct4 {
+    visibility: hidden;
+}
+
+#Correct5 {
+    visibility: hidden;
+}
+
+#Score {
+    visibility: hidden;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+    padding: 8px;
+    background-color: lightgray;
+    border-style: double;
+    border-color: dimgrey;
+}

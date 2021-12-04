@@ -1,0 +1,63 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkred;
+    text-align: center;
+    display: block;
+}
+
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkred;
+    text-align: center;
+    display: block;
+    position: relative;
+}
+
+nav {
+    text-align: center;
+    float: inline-start;
+    color: darkblue;
+    display: block;
+    padding: 8px;
+    background-color: lightgray;
+    border-color: dimgray;
+    border-style: double;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    border-radius: 8px;
+
+}
+a:hover {
+    color: darkred;
+    text-decoration: underline;
+}
+
+body {
+    background-color: darkgray;
+}
+
+blockquote {
+    text-align: center;
+}
+
+main {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+}
+
+audio:paused {
+    color: darkred;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+    padding: 8px;
+    background-color: lightgray;
+    border-style: double;
+    border-color: dimgrey;
+}
